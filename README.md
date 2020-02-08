@@ -10,6 +10,7 @@ Docker images available for versions:
 - [Node 10](./node-10)
 - [Node 11](./node-11)
 - [Node 12](./node-12)
+- [Node 13](./node-13)
 
 ## Installed software:
 This image contains Nodejs. For more information about the installed tools see the web development base image [readme](https://github.com/richardregeer/docker-web-development).

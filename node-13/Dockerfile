@@ -5,7 +5,7 @@ LABEL maintainer "Richard Regeer" \
 
 EXPOSE 3000
 
-ENV NODE_VERSION 12.15.0
+ENV NODE_VERSION 13.8.0
 
 # Install nodejs
 RUN curl -LOk https://nodejs.org/dist/v$NODE_VERSION/node-v$NODE_VERSION-linux-x64.tar.gz \

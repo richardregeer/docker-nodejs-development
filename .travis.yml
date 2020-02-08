@@ -3,9 +3,9 @@ language: bash
 services: docker
 
 env:
-  - VARIANT=node-8
   - VARIANT=node-10
   - VARIANT=node-12
+  - VARIANT=node-13
   
 before_script:
   - cd "$VARIANT"
