@@ -6,6 +6,7 @@ env:
   - VARIANT=node-10
   - VARIANT=node-12
   - VARIANT=node-13
+  - VARIANT=node-14
   
 before_script:
   - cd "$VARIANT"
